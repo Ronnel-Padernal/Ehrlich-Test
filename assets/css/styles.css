@@ -212,6 +212,7 @@ header {
     flex-wrap: wrap;
    	height: 75px;   	
 	color: #fff;
+	max-width: 1321px;
 }
 .vip-exclusive h2 {
    	max-width: 472px;
