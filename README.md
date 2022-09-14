@@ -2,7 +2,7 @@
 - Develop By: Ronnel Padernal
 - Platform: Native HTML and CSS
 
-# HTML Structure
+# Web Page Structure
 - Using Header, Main and Footer for webpage structure Development
 - Added Sticky Navigation for more appropriate UI and UX
 - The development only focus on Desktop view, responsiveness added
