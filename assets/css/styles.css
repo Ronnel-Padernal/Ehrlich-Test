@@ -359,7 +359,7 @@ header {
 }
 
 /*-- Recent Buy Products --*/
-#recent-buy-items {
+#recent-buy-items .products {
 	display: flex;
     justify-content: space-between;
     align-items: center;
